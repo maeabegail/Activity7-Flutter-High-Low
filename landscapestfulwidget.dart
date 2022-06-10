@@ -4,7 +4,7 @@ import 'package:flip_card/flip_card.dart';
 import 'package:flip_card/flip_card_controller.dart';
 import 'suits.dart';
 
-//Desktop Mode/Landscape Layout
+//Landscape
 class DesktopMode extends StatefulWidget {
   const DesktopMode({
     Key? key,
