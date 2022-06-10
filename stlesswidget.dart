@@ -26,8 +26,8 @@ class Textbutton3 extends StatelessWidget {
                   fontSize: 30,
                   fontWeight: FontWeight.bold),
             ),
-            content: const Text(
-              'Created By: Rod Kristian J. Rebarbas',
+            content: const Text
+              (
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontFamily: 'IndieFlower',
